@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud DevOps Engineering && Ethical Hacking(Penetration Testing).**
 
-- 📫 How to reach me **wave-cloud0@gmail.com**
+- 📫 How to reach me **Solomon.osita888@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
