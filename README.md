@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm OG DMERLIN</h1>
+<h1 align="center">Hi 👋, I'm Wave </h1>
 <h3 align="center">A Passionate software Engineer || Cyber Security Enthusiast.</h3>
 <img align=”right” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
